@@ -1,0 +1,99 @@
+*{
+margin:0;
+padding:0;
+}
+.TitleOne {
+    background-color: black;
+    height:300px;    
+    color:yellow;
+    font-family: helvetica,sans-serif;
+    font-size:40px;
+    line-height: 200px;
+    text-align: center;
+    width: 100%;
+    background-position: center;
+    float: left;
+    clear:left;
+    
+}
+h2{
+    font-size: 20px;
+}
+.company{
+    font-size:40px;
+    margin-left: 20px;
+    color: white
+}
+.GreenBoxContainer{
+    clear:both;
+    overflow: hidden;
+    float: left;
+    display: block;
+}
+.GreenBox{
+background-color: lightgreen;
+height: 120px;
+width: 120px;
+padding: 30px;
+margin: 30px;
+border-radius: 25px;
+display:inline-block;
+}
+.OrangeBoxContainer{
+    clear:both;
+    overflow: hidden;
+    float: left;
+    
+}
+.OrangeBox{
+    background-color: lightsalmon;
+    height: 120px;
+    width: 240px;
+    padding: 30px;
+    margin: 30px;
+    display:inline-block;
+    
+}
+
+ul{
+    background-color: #353638;
+    list-style-type: none;
+    color:white;
+    height:50px;
+    width:100%;
+    float: left;
+    margin:0;
+    padding:0;
+
+}
+li{
+    float: right;
+    color:white;
+    font-size:20px;
+ 
+
+}
+p {
+    font-size: 12px;
+    font-family: helvetica;
+    padding: 10px 60px;
+    
+}
+.text{
+    height:120px;
+    width: 500px;
+    margin: 30px;
+    margin-bottom: 40px;
+    float:left;
+    clear:left;
+
+}
+img{
+    float:left;
+    height:160px;
+}
+footer{
+    float: left;
+    background-color:blue;
+    height:50px;
+}
